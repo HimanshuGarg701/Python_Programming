@@ -1,7 +1,7 @@
 x = int(input("enter the first num"))
 y = int(input("enter the second number"))
 
-sum = x+y
+sum = x + y
 sub = x-y
 product = x*y
 div = x/y
