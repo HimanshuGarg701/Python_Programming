@@ -4,5 +4,6 @@ y = int(input("enter the second number y"))
 z = x
 x = y
 y = z
+
 print("the value of x is "+ str(x))
 print("the value of y is "+ str(y))
