@@ -11,7 +11,6 @@ time = int(input("Enter time in years"))
 SI = principal * rate * time/100
 print(SI)
 
-
 # ===================================power================================================================
 
 a = int(input("enter the number"))
